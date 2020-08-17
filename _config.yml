@@ -1,8 +1,8 @@
 antitle: Bryan Alay Blog
-description: estudiante de software en Universidad de Guayaquil.
+description: Blog personal
 author: Bryan Alay
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: Bryanalmi27@hotmail.com
 
 plugins:
   - jekyll-seo-tag
