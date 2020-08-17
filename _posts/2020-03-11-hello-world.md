@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biografia
-author: Shangzhi Huang
+author: Bryan Miguel Alay Miranda
 date: 2020-03-11 18:42:53 +0800
 tags: [test, hello]
 ---
