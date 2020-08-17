@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Estudios"
 categories: junk
 tags: [markdown, css, html]
 author:
-  - Bart Simpson
-  - Nelson Mandela Muntz
+  - Bryan Alay 
+  
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Aqui expongo toda mi biografia como estudiante, escuela, colegio, cursos en los que he estado etc.
 
 ## Some great heading (h2)
 
