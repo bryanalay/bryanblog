@@ -1,7 +1,7 @@
 antitle: Bryan Alay Blog
 description: Blog personal
 author: Bryan Alay
-avatar: /logo.png
+avatar: /utglogo.png
 email: Bryanalmi27@hotmail.com
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: bryanalay
   card: summary
-logo: logo.png
+logo: utglogo.png
 social:
   name: Bryan Alay Miranda
   links:
