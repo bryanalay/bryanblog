@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Estudios"
-categories: junk
 tags: [markdown, css, html]
 author:
   - Bryan Alay 
